@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Nishchal Sharan.
 - 👀 I’m interested in Cloud.
-- 🌱 I’m currently learning Devops.
-- 💞️ I’m looking to collaborate on Devops.
+- 🌱 I’m currently learning Devops and K8s.
+- 💞️ I’m looking to collaborate on Devops and K8s.
 - 📫 How to reach me? Let's connect over LinkedIn: https://www.linkedin.com/in/nishchal-sharan-685ba3162
 
 <!---
